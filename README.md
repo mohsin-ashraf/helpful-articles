@@ -1,6 +1,9 @@
 # helpful-articles
 This repository contains only the links to the helpfull articles.
 
+## Web Scraping
+- [Selenium chromedriver on ubuntu](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
+
 
 ## Pandas
 - [Pandas for large data](http://queirozf.com/entries/pandas-for-large-data)
