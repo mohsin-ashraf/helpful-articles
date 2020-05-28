@@ -23,3 +23,7 @@ This repository contains only the links to the helpfull articles.
 ## Deep Learning
 - [Gradient descent optimzation algorithms](https://ruder.io/optimizing-gradient-descent/)
 	- It discusses the various algorithms for gradient descent optimization.
+
+## Natural Language Processing
+- [Word Embeddings from Scratch](https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72)
+	- Implimentation of word embeddings from scratch using python and numpy for better understanding.
