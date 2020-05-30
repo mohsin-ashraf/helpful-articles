@@ -18,7 +18,8 @@ This repository contains only the links to the helpfull articles.
 - [Principle Component Analysis Explaination](https://ruder.io/optimizing-gradient-descent/)
 	- Explains the working of PCA in a way that you can explain to your grandma! Give some visual understanding of the concept also.
 - [Generative vs Discriminative Models](https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm)
-
+- [Understanding Latent Space in Machine Learning](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)
+	- Aricle explaining what the latent space is, and why it is used.
 
 ## Deep Learning
 - [Gradient descent optimzation algorithms](https://ruder.io/optimizing-gradient-descent/)
