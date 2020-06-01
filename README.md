@@ -28,3 +28,5 @@ This repository contains only the links to the helpfull articles.
 ## Natural Language Processing
 - [Word Embeddings from Scratch](https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72)
 	- Implimentation of word embeddings from scratch using python and numpy for better understanding.
+- [Word Embeddings and Glove Embeddings](https://medium.com/@jonathan_hui/nlp-word-embedding-glove-5e7f523999f6)
+	- An Intuitive and mathematical understanding of glove embeddings.
