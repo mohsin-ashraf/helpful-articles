@@ -32,3 +32,5 @@ This repository contains only the links to the helpfull articles.
 	- Implimentation of word embeddings from scratch using python and numpy for better understanding.
 - [Word Embeddings and Glove Embeddings](https://medium.com/@jonathan_hui/nlp-word-embedding-glove-5e7f523999f6)
 	- An Intuitive and mathematical understanding of glove embeddings.
+- [NLP colab notebooks collection repo](https://notebooks.quantumstat.com/)
+	- This repo contains important nlp projects notebooks for practice and learning purposes. The projects are fully documented as the code progresses.
