@@ -34,3 +34,5 @@ This repository contains only the links to the helpfull articles.
 	- An Intuitive and mathematical understanding of glove embeddings.
 - [NLP colab notebooks collection repo](https://notebooks.quantumstat.com/)
 	- This repo contains important nlp projects notebooks for practice and learning purposes. The projects are fully documented as the code progresses.
+- [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
+	- This article discusses in detail many different word embedding techniques from simpler to more advanced.
