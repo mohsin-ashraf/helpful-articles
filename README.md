@@ -1,6 +1,11 @@
 # helpful-articles
 This repository contains only the links to the helpfull articles.
 
+
+## Learning Resources
+- [Fast.ai](https://course.fast.ai/)
+	- Website offering courses in Deep learning, Artificial Intelligence and cloud computing.
+
 ## Web Scraping
 - [Selenium chromedriver on ubuntu](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
 
@@ -36,3 +41,5 @@ This repository contains only the links to the helpfull articles.
 	- This repo contains important nlp projects notebooks for practice and learning purposes. The projects are fully documented as the code progresses.
 - [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
 	- This article discusses in detail many different word embedding techniques from simpler to more advanced.
+
+## Cloud Computing.
