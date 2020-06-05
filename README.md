@@ -15,6 +15,8 @@ This repository contains only the links to the helpfull articles.
 	- Medium blog posts collections explaining advanced ways of selecting data using pandas and other advanced features and challenges to learn pandas.
 - [Pandas for large data](http://queirozf.com/entries/pandas-for-large-data)
 	- It a very good post talking about efficiently working with large dataset using pandas in a memory effiecient way. Shows some tricks to do stuff parallel in pandas and shows examples.
+- [Setting up Jupyter notebook on remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
+	- A very simple and friendly post for setting up jupyter notebook on remote servers, and using it from local computers.
 
 ## Datasets
 - [DBPedia Structured Information from Wikipedia](https://wiki.dbpedia.org/develop/getting-started)
