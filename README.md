@@ -43,5 +43,8 @@ This repository contains only the links to the helpfull articles.
 	- This repo contains important nlp projects notebooks for practice and learning purposes. The projects are fully documented as the code progresses.
 - [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
 	- This article discusses in detail many different word embedding techniques from simpler to more advanced.
+- [Text classification using Gensim](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
+	- This article discusses multi-class text classification using doc2vec model, it creates embeddings using doc2vec and then uses Logistic Regression for classification.
+
 
 ## Cloud Computing.
