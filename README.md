@@ -46,5 +46,9 @@ This repository contains only the links to the helpfull articles.
 - [Text classification using Gensim](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
 	- This article discusses multi-class text classification using doc2vec model, it creates embeddings using doc2vec and then uses Logistic Regression for classification.
 
+## Data Science.
+- [A check list for Data Science Project](https://bookdown.org/rdpeng/artofdatascience/comparing-model-expectations-to-reality.html)
+	- This blog post covers an extensive and in depth process of a data science project. Infact the website itself is full of data science content.
+
 
 ## Cloud Computing.
