@@ -5,6 +5,8 @@ This repository contains only the links to the helpfull articles.
 ## Learning Resources
 - [Fast.ai](https://course.fast.ai/)
 	- Website offering courses in Deep learning, Artificial Intelligence and cloud computing.
+- [MIT Courses](https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/?fbclid=IwAR0OxmLzmVSSIy0Cjq030TDAOkb9ZXLctAJr9WmWI2vKq_518funSNkPg9g)
+	- Excellent resource where lectures of MIT on Machine learning, Deep learning and Re-enforcement learning are placed.
 
 ## Web Scraping
 - [Selenium chromedriver on ubuntu](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
