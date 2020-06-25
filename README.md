@@ -49,6 +49,8 @@ This repository contains only the links to the helpfull articles.
 	- This article discusses multi-class text classification using doc2vec model, it creates embeddings using doc2vec and then uses Logistic Regression for classification.
 - [Transformer models Tutorial](https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a)
 	- This blog post gives a breif introduction on how to use hugginface transformers to perform classification and these simple ideas can be than extended later on to perform even more complex tasks.
+- [HuggingFace officel Notebooks](https://huggingface.co/transformers/notebooks.html) 
+	- HuggingFace gives the notebooks for their transformer models which are helpful understanding on how to work with these transformers.
 
 
 ## Data Science.
