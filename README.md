@@ -47,6 +47,9 @@ This repository contains only the links to the helpfull articles.
 	- This article discusses in detail many different word embedding techniques from simpler to more advanced.
 - [Text classification using Gensim](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
 	- This article discusses multi-class text classification using doc2vec model, it creates embeddings using doc2vec and then uses Logistic Regression for classification.
+- [Transformer models Tutorial](https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a)
+	- This blog post gives a breif introduction on how to use hugginface transformers to perform classification and these simple ideas can be than extended later on to perform even more complex tasks.
+
 
 ## Data Science.
 - [A check list for Data Science Project](https://bookdown.org/rdpeng/artofdatascience/comparing-model-expectations-to-reality.html)
