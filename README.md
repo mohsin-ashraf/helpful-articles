@@ -31,6 +31,8 @@ This repository contains only the links to the helpfull articles.
 - [Generative vs Discriminative Models](https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm)
 - [Understanding Latent Space in Machine Learning](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)
 	- Aricle explaining what the latent space is, and why it is used.
+- [Approximate Nearest Neighbors (ANN) Algorithms](https://towardsdatascience.com/comprehensive-guide-to-approximate-nearest-neighbors-algorithms-8b94f057d6b6)
+	- This blog post comprehensively discusses some of the important ANN Algorithms and their pros and cons.
 
 ## Deep Learning
 - [Gradient descent optimzation algorithms](https://ruder.io/optimizing-gradient-descent/)
