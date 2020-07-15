@@ -58,6 +58,8 @@ This repository contains only the links to the helpfull articles.
 ## Data Science.
 - [A check list for Data Science Project](https://bookdown.org/rdpeng/artofdatascience/comparing-model-expectations-to-reality.html)
 	- This blog post covers an extensive and in depth process of a data science project. Infact the website itself is full of data science content.
+- [Publishing your own PyPi Package](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
+	- This blog post discusses how to upload a python package on PyPi.
 
 
 ## Cloud Computing.
