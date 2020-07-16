@@ -10,7 +10,8 @@ This repository contains only the links to the helpfull articles.
 
 ## Web Scraping
 - [Selenium chromedriver on ubuntu](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
-
+- [Requests Beyond the basics](https://towardsdatascience.com/how-to-download-files-using-python-part-2-19b95be4cdb5)
+	- Comprehensive guide for advanced requests. Resuming downloads or incomplete binary files and how to show the progress bar
 
 ## Pandas
 - [Pandas Data Selection & Other Features](https://medium.com/dunder-data)
@@ -60,6 +61,5 @@ This repository contains only the links to the helpfull articles.
 	- This blog post covers an extensive and in depth process of a data science project. Infact the website itself is full of data science content.
 - [Publishing your own PyPi Package](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
 	- This blog post discusses how to upload a python package on PyPi.
-
 
 ## Cloud Computing.
