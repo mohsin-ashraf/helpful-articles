@@ -62,5 +62,7 @@ This repository contains only the links to the helpfull articles.
 	- This blog post covers an extensive and in depth process of a data science project. Infact the website itself is full of data science content.
 - [Publishing your own PyPi Package](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
 	- This blog post discusses how to upload a python package on PyPi.
+- [Federated Learning using Pytorch & PySyft](https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/) 
+	- A gentle introduction to federated learning using pytorch.
 
 ## Cloud Computing.
