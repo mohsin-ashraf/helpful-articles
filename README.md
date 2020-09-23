@@ -55,7 +55,8 @@ This repository contains only the links to the helpfull articles.
 	- This blog post gives a breif introduction on how to use hugginface transformers to perform classification and these simple ideas can be than extended later on to perform even more complex tasks.
 - [HuggingFace officel Notebooks](https://huggingface.co/transformers/notebooks.html) 
 	- HuggingFace gives the notebooks for their transformer models which are helpful understanding on how to work with these transformers.
-
+- [Common Information Retrieval Evaluation Metrics](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832) 
+	- This blog post covers a indepth of some commonly used IR performance evaluation metrics.
 
 ## Data Science.
 - [A check list for Data Science Project](https://bookdown.org/rdpeng/artofdatascience/comparing-model-expectations-to-reality.html)
