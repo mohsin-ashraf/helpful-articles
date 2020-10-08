@@ -25,7 +25,7 @@ This repository contains only the links to the helpfull articles.
 ## Datasets
 - [DBPedia Structured Information from Wikipedia](https://wiki.dbpedia.org/develop/getting-started)
 	- The DBpedia community uses a flexible and extensible framework to extract different kinds of structured information from Wikipedia.
-
+- [The Big Bad NLP Database with 600 Datasets](https://datasets.quantumstat.com/)
 
 ## Machine Learning
 - [Principle Component Analysis Explaination](https://ruder.io/optimizing-gradient-descent/)
