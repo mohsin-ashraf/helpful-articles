@@ -39,7 +39,8 @@ This repository contains only the links to the helpfull articles.
 ## Deep Learning
 - [Gradient descent optimzation algorithms](https://ruder.io/optimizing-gradient-descent/)
 	- It discusses the various algorithms for gradient descent optimization.
-
+- [Understanding Emotions -- from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
+	- A very indepth blog post for related to implementation of LSTMs and Attention models.
 ## Natural Language Processing
 - [Word Embeddings from Scratch](https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72)
 	- Implimentation of word embeddings from scratch using python and numpy for better understanding.
