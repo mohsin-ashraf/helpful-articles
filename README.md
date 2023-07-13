@@ -2,6 +2,10 @@
 This repository contains only the links to the helpfull articles.
 
 
+## Python
+- [Decorator comprehensive guide](https://realpython.com/primer-on-python-decorators/)
+	- A very friendly guide for understanding the decorators from scratch to advance level with examples & usecases.
+
 ## Learning Resources
 - [Fast.ai](https://course.fast.ai/)
 	- Website offering courses in Deep learning, Artificial Intelligence and cloud computing.
